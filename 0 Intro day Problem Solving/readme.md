@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Problem-solving is an essential skill for any programmer. In this lecture, we'll explore how to apply problem-solving techniques to write effective Python code.
+Problem-solving is an essential skill for any programmer. Today, we'll explore how to apply problem-solving techniques to write effective Python code.
 
 * Understand the problem
 * Break the problem down
