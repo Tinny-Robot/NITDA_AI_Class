@@ -12,6 +12,18 @@ Problem-solving is an essential skill for any programmer. Today, we'll explore h
 * Refine the code
 * Document the code
 
+### sample Problem
+**Problem**: Find the Largest and Smallest Numbers
+
+**Task**:
+Write a Python program that prompts the user to enter a series of numbers and then finds the largest and smallest numbers among those entered.
+
+**Input Format**:
+The program will prompt the user to enter the numbers separated by a comma.
+
+**Output Format**:
+The program will display the largest and smallest numbers entered by the user.
+
 ### Understanding the Problem
 
 Before we start writing code, it's important to understand the problem we're trying to solve. This involves reading the problem statement carefully, asking questions, and clarifying any ambiguities. Here are some tips:
